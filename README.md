@@ -6,7 +6,7 @@ This project implements a robust referral system API designed to facilitate user
 Features:
 
 User Registration Endpoint: 
-Allows users to register by submitting their name, email, and password. Additionally, users can provide an optional referral code.
+Allows users to register by submitting their name, email, and password. Additionally, users can provide an optional referral code which is another user unique id.
 
 User Details Endpoint: 
 Enables users to retrieve their details including name, email, referral code, and registration timestamp. Access requires a valid token.
