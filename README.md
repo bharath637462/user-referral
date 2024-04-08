@@ -19,3 +19,4 @@ Built using Django to ensure high performance and scalability.
 Utilizes Docker and Docker Compose for seamless deployment and environment management.
 Implements unit tests for each endpoint to ensure reliability and functionality.
 Leverages Git for version control, with clear and concise commit messages to track project changes effectively.
+Swagger used for Api documentation
